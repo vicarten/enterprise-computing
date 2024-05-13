@@ -1,0 +1,513 @@
+* * *  SIMULATION BEGINS...
+Deposit Agents			 Withdrawal Agents			 Balance					Transaction Number
+--------------			 -----------------			---------					------------------
+				 Agent WT7 withdraws $91 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT5 withdraws $78 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT6 withdraws $61 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT3 withdraws $74 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+Agent DT1 deposits $44							(+) Balance is $44. 					 1
+				 Agent WT4 withdraws $77 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT6 withdraws $22 		(-) Balance is $22. 					 2
+				 Agent WT10 withdraws $19 		(-) Balance is $3. 					 3
+				 Agent WT9 withdraws $60 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT5 withdraws $48 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+Agent DT4 deposits $139							(+) Balance is $142. 					 4
+				 Agent WT10 withdraws $42 		(-) Balance is $100. 					 5
+				 Agent WT10 withdraws $79 		(-) Balance is $21. 					 6
+
+***Flagged Transaction - Withdrawal Agent WT10 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $76 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT4 withdraws $34 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT2 withdraws $22 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+Agent DT3 deposits $93							(+) Balance is $114. 					 7
+				 Agent WT4 withdraws $46 		(-) Balance is $68. 					 8
+				 Agent WT1 withdraws $14 		(-) Balance is $54. 					 9
+				 Agent WT7 withdraws $29 		(-) Balance is $25. 					 10
+				 Agent WT5 withdraws $70 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT2 withdraws $98 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT10 withdraws $51 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT7 withdraws $61 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT4 withdraws $41 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT3 withdraws $50 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT4 withdraws $88 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT10 withdraws $37 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT6 withdraws $93 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT9 withdraws $43 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT5 withdraws $91 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT6 withdraws $8 		(-) Balance is $17. 					 11
+				 Agent WT7 withdraws $56 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+				 Agent WT8 withdraws $79 		(******) WITHDRAWAL BLOCKED - INSUFICIENT FUNDS!!!
+Agent DT4 deposits $78							(+) Balance is $95. 					 12
+				 Agent WT8 withdraws $53 		(-) Balance is $42. 					 13
+Agent DT1 deposits $249							(+) Balance is $291. 					 14
+				 Agent WT9 withdraws $29 		(-) Balance is $262. 					 15
+Agent DT5 deposits $276							(+) Balance is $538. 					 16
+Agent DT2 deposits $340							(+) Balance is $878. 					 17
+				 Agent WT1 withdraws $49 		(-) Balance is $829. 					 18
+				 Agent WT7 withdraws $68 		(-) Balance is $761. 					 19
+				 Agent WT4 withdraws $97 		(-) Balance is $664. 					 20
+
+***Flagged Transaction - Withdrawal Agent WT4 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $92 		(-) Balance is $572. 					 21
+
+***Flagged Transaction - Withdrawal Agent WT2 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT4 deposits $463							(+) Balance is $1035. 					 22
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+
+
+******************************************************************************************************************************************************************
+
+		INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $1035	 Number of transactions since last Internal audit is: 22
+
+
+******************************************************************************************************************************************************************
+
+				 Agent WT3 withdraws $25 		(-) Balance is $1010. 					 23
+				 Agent WT8 withdraws $7 		(-) Balance is $1003. 					 24
+				 Agent WT10 withdraws $71 		(-) Balance is $932. 					 25
+				 Agent WT9 withdraws $34 		(-) Balance is $898. 					 26
+Agent DT1 deposits $214							(+) Balance is $1112. 					 27
+				 Agent WT10 withdraws $78 		(-) Balance is $1034. 					 28
+
+***Flagged Transaction - Withdrawal Agent WT10 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT3 deposits $2							(+) Balance is $1036. 					 29
+				 Agent WT3 withdraws $87 		(-) Balance is $949. 					 30
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT5 withdraws $95 		(-) Balance is $854. 					 31
+
+***Flagged Transaction - Withdrawal Agent WT5 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $28 		(-) Balance is $826. 					 32
+				 Agent WT6 withdraws $50 		(-) Balance is $776. 					 33
+				 Agent WT2 withdraws $30 		(-) Balance is $746. 					 34
+				 Agent WT8 withdraws $9 		(-) Balance is $737. 					 35
+				 Agent WT10 withdraws $6 		(-) Balance is $731. 					 36
+				 Agent WT2 withdraws $64 		(-) Balance is $667. 					 37
+				 Agent WT7 withdraws $21 		(-) Balance is $646. 					 38
+				 Agent WT4 withdraws $31 		(-) Balance is $615. 					 39
+				 Agent WT1 withdraws $20 		(-) Balance is $595. 					 40
+Agent DT4 deposits $142							(+) Balance is $737. 					 41
+				 Agent WT2 withdraws $49 		(-) Balance is $688. 					 42
+				 Agent WT4 withdraws $88 		(-) Balance is $600. 					 43
+
+***Flagged Transaction - Withdrawal Agent WT4 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT5 withdraws $40 		(-) Balance is $560. 					 44
+				 Agent WT7 withdraws $27 		(-) Balance is $533. 					 45
+				 Agent WT6 withdraws $7 		(-) Balance is $526. 					 46
+Agent DT2 deposits $146							(+) Balance is $672. 					 47
+				 Agent WT3 withdraws $32 		(-) Balance is $640. 					 48
+				 Agent WT6 withdraws $67 		(-) Balance is $573. 					 49
+				 Agent WT1 withdraws $56 		(-) Balance is $517. 					 50
+Agent DT2 deposits $217							(+) Balance is $734. 					 51
+				 Agent WT9 withdraws $61 		(-) Balance is $673. 					 52
+				 Agent WT2 withdraws $78 		(-) Balance is $595. 					 53
+
+***Flagged Transaction - Withdrawal Agent WT2 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $69 		(-) Balance is $526. 					 54
+				 Agent WT1 withdraws $99 		(-) Balance is $427. 					 55
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+
+
+******************************************************************************************************************************************************************
+
+		TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $427	 Number of transactions since last Treasury audit is: 55
+
+
+******************************************************************************************************************************************************************
+
+				 Agent WT1 withdraws $74 		(-) Balance is $353. 					 56
+				 Agent WT10 withdraws $28 		(-) Balance is $325. 					 57
+Agent DT5 deposits $254							(+) Balance is $579. 					 58
+				 Agent WT2 withdraws $17 		(-) Balance is $562. 					 59
+				 Agent WT6 withdraws $30 		(-) Balance is $532. 					 60
+Agent DT4 deposits $484							(+) Balance is $1016. 					 61
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $22 		(-) Balance is $994. 					 62
+				 Agent WT7 withdraws $46 		(-) Balance is $948. 					 63
+				 Agent WT10 withdraws $58 		(-) Balance is $890. 					 64
+				 Agent WT4 withdraws $56 		(-) Balance is $834. 					 65
+				 Agent WT3 withdraws $85 		(-) Balance is $749. 					 66
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $19 		(-) Balance is $730. 					 67
+				 Agent WT5 withdraws $91 		(-) Balance is $639. 					 68
+
+***Flagged Transaction - Withdrawal Agent WT5 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT5 withdraws $51 		(-) Balance is $588. 					 69
+				 Agent WT1 withdraws $89 		(-) Balance is $499. 					 70
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $35 		(-) Balance is $464. 					 71
+				 Agent WT8 withdraws $8 		(-) Balance is $456. 					 72
+
+
+******************************************************************************************************************************************************************
+
+		INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $456	 Number of transactions since last Internal audit is: 50
+
+
+******************************************************************************************************************************************************************
+
+Agent DT1 deposits $57							(+) Balance is $513. 					 73
+Agent DT2 deposits $400							(+) Balance is $913. 					 74
+
+***Flagged Transaction - Depositor Agent DT2 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT10 withdraws $63 		(-) Balance is $850. 					 75
+				 Agent WT9 withdraws $6 		(-) Balance is $844. 					 76
+				 Agent WT3 withdraws $27 		(-) Balance is $817. 					 77
+				 Agent WT9 withdraws $69 		(-) Balance is $748. 					 78
+Agent DT3 deposits $191							(+) Balance is $939. 					 79
+				 Agent WT4 withdraws $59 		(-) Balance is $880. 					 80
+				 Agent WT6 withdraws $17 		(-) Balance is $863. 					 81
+				 Agent WT4 withdraws $17 		(-) Balance is $846. 					 82
+
+
+******************************************************************************************************************************************************************
+
+		INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $846	 Number of transactions since last Internal audit is: 10
+
+
+******************************************************************************************************************************************************************
+
+				 Agent WT7 withdraws $83 		(-) Balance is $763. 					 83
+
+***Flagged Transaction - Withdrawal Agent WT7 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $60 		(-) Balance is $703. 					 84
+Agent DT4 deposits $433							(+) Balance is $1136. 					 85
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT1 withdraws $26 		(-) Balance is $1110. 					 86
+				 Agent WT8 withdraws $61 		(-) Balance is $1049. 					 87
+				 Agent WT5 withdraws $2 		(-) Balance is $1047. 					 88
+Agent DT5 deposits $318							(+) Balance is $1365. 					 89
+				 Agent WT10 withdraws $73 		(-) Balance is $1292. 					 90
+Agent DT4 deposits $343							(+) Balance is $1635. 					 91
+				 Agent WT10 withdraws $26 		(-) Balance is $1609. 					 92
+Agent DT4 deposits $452							(+) Balance is $2061. 					 93
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT6 withdraws $84 		(-) Balance is $1977. 					 94
+
+***Flagged Transaction - Withdrawal Agent WT6 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT3 withdraws $95 		(-) Balance is $1882. 					 95
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT6 withdraws $17 		(-) Balance is $1865. 					 96
+				 Agent WT7 withdraws $82 		(-) Balance is $1783. 					 97
+
+***Flagged Transaction - Withdrawal Agent WT7 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT9 withdraws $50 		(-) Balance is $1733. 					 98
+				 Agent WT2 withdraws $47 		(-) Balance is $1686. 					 99
+				 Agent WT3 withdraws $19 		(-) Balance is $1667. 					 100
+				 Agent WT8 withdraws $37 		(-) Balance is $1630. 					 101
+				 Agent WT4 withdraws $36 		(-) Balance is $1594. 					 102
+				 Agent WT8 withdraws $90 		(-) Balance is $1504. 					 103
+
+***Flagged Transaction - Withdrawal Agent WT8 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT1 withdraws $69 		(-) Balance is $1435. 					 104
+				 Agent WT2 withdraws $17 		(-) Balance is $1418. 					 105
+Agent DT1 deposits $213							(+) Balance is $1631. 					 106
+				 Agent WT3 withdraws $47 		(-) Balance is $1584. 					 107
+Agent DT1 deposits $251							(+) Balance is $1835. 					 108
+				 Agent WT10 withdraws $35 		(-) Balance is $1800. 					 109
+				 Agent WT5 withdraws $31 		(-) Balance is $1769. 					 110
+Agent DT2 deposits $236							(+) Balance is $2005. 					 111
+Agent DT3 deposits $373							(+) Balance is $2378. 					 112
+
+***Flagged Transaction - Depositor Agent DT3 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $3 		(-) Balance is $2375. 					 113
+				 Agent WT6 withdraws $85 		(-) Balance is $2290. 					 114
+
+***Flagged Transaction - Withdrawal Agent WT6 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT7 withdraws $75 		(-) Balance is $2215. 					 115
+				 Agent WT8 withdraws $15 		(-) Balance is $2200. 					 116
+				 Agent WT9 withdraws $43 		(-) Balance is $2157. 					 117
+				 Agent WT10 withdraws $42 		(-) Balance is $2115. 					 118
+Agent DT1 deposits $387							(+) Balance is $2502. 					 119
+
+***Flagged Transaction - Depositor Agent DT1 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $19 		(-) Balance is $2483. 					 120
+				 Agent WT5 withdraws $48 		(-) Balance is $2435. 					 121
+				 Agent WT5 withdraws $34 		(-) Balance is $2401. 					 122
+				 Agent WT10 withdraws $20 		(-) Balance is $2381. 					 123
+				 Agent WT7 withdraws $26 		(-) Balance is $2355. 					 124
+				 Agent WT1 withdraws $74 		(-) Balance is $2281. 					 125
+Agent DT5 deposits $137							(+) Balance is $2418. 					 126
+				 Agent WT9 withdraws $65 		(-) Balance is $2353. 					 127
+				 Agent WT3 withdraws $98 		(-) Balance is $2255. 					 128
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $79 		(-) Balance is $2176. 					 129
+
+***Flagged Transaction - Withdrawal Agent WT2 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT3 withdraws $38 		(-) Balance is $2138. 					 130
+				 Agent WT8 withdraws $62 		(-) Balance is $2076. 					 131
+Agent DT1 deposits $316							(+) Balance is $2392. 					 132
+				 Agent WT5 withdraws $84 		(-) Balance is $2308. 					 133
+
+***Flagged Transaction - Withdrawal Agent WT5 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $54 		(-) Balance is $2254. 					 134
+				 Agent WT4 withdraws $87 		(-) Balance is $2167. 					 135
+
+***Flagged Transaction - Withdrawal Agent WT4 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT1 withdraws $81 		(-) Balance is $2086. 					 136
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT5 withdraws $35 		(-) Balance is $2051. 					 137
+				 Agent WT6 withdraws $83 		(-) Balance is $1968. 					 138
+
+***Flagged Transaction - Withdrawal Agent WT6 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT2 deposits $207							(+) Balance is $2175. 					 139
+				 Agent WT1 withdraws $90 		(-) Balance is $2085. 					 140
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT9 withdraws $16 		(-) Balance is $2069. 					 141
+				 Agent WT4 withdraws $94 		(-) Balance is $1975. 					 142
+
+***Flagged Transaction - Withdrawal Agent WT4 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT4 deposits $471							(+) Balance is $2446. 					 143
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT1 withdraws $39 		(-) Balance is $2407. 					 144
+Agent DT4 deposits $4							(+) Balance is $2411. 					 145
+				 Agent WT3 withdraws $60 		(-) Balance is $2351. 					 146
+				 Agent WT6 withdraws $99 		(-) Balance is $2252. 					 147
+
+***Flagged Transaction - Withdrawal Agent WT6 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT7 withdraws $64 		(-) Balance is $2188. 					 148
+				 Agent WT10 withdraws $69 		(-) Balance is $2119. 					 149
+Agent DT4 deposits $418							(+) Balance is $2537. 					 150
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $6 		(-) Balance is $2531. 					 151
+				 Agent WT8 withdraws $89 		(-) Balance is $2442. 					 152
+
+***Flagged Transaction - Withdrawal Agent WT8 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT7 withdraws $52 		(-) Balance is $2390. 					 153
+Agent DT3 deposits $229							(+) Balance is $2619. 					 154
+				 Agent WT5 withdraws $14 		(-) Balance is $2605. 					 155
+				 Agent WT2 withdraws $91 		(-) Balance is $2514. 					 156
+
+***Flagged Transaction - Withdrawal Agent WT2 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT10 withdraws $35 		(-) Balance is $2479. 					 157
+				 Agent WT6 withdraws $54 		(-) Balance is $2425. 					 158
+				 Agent WT9 withdraws $17 		(-) Balance is $2408. 					 159
+Agent DT5 deposits $132							(+) Balance is $2540. 					 160
+				 Agent WT7 withdraws $55 		(-) Balance is $2485. 					 161
+				 Agent WT2 withdraws $58 		(-) Balance is $2427. 					 162
+				 Agent WT4 withdraws $42 		(-) Balance is $2385. 					 163
+				 Agent WT5 withdraws $13 		(-) Balance is $2372. 					 164
+				 Agent WT3 withdraws $9 		(-) Balance is $2363. 					 165
+				 Agent WT1 withdraws $92 		(-) Balance is $2271. 					 166
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT3 deposits $383							(+) Balance is $2654. 					 167
+
+***Flagged Transaction - Depositor Agent DT3 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT5 withdraws $49 		(-) Balance is $2605. 					 168
+				 Agent WT10 withdraws $63 		(-) Balance is $2542. 					 169
+				 Agent WT3 withdraws $6 		(-) Balance is $2536. 					 170
+				 Agent WT2 withdraws $22 		(-) Balance is $2514. 					 171
+				 Agent WT3 withdraws $7 		(-) Balance is $2507. 					 172
+Agent DT1 deposits $367							(+) Balance is $2874. 					 173
+
+***Flagged Transaction - Depositor Agent DT1 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT7 withdraws $31 		(-) Balance is $2843. 					 174
+				 Agent WT9 withdraws $55 		(-) Balance is $2788. 					 175
+				 Agent WT8 withdraws $50 		(-) Balance is $2738. 					 176
+				 Agent WT4 withdraws $58 		(-) Balance is $2680. 					 177
+				 Agent WT5 withdraws $42 		(-) Balance is $2638. 					 178
+
+
+******************************************************************************************************************************************************************
+
+		INTERNAL BANK AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $2638	 Number of transactions since last Internal audit is: 96
+
+
+******************************************************************************************************************************************************************
+
+				 Agent WT4 withdraws $13 		(-) Balance is $2625. 					 179
+				 Agent WT6 withdraws $25 		(-) Balance is $2600. 					 180
+Agent DT2 deposits $488							(+) Balance is $3088. 					 181
+
+***Flagged Transaction - Depositor Agent DT2 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT9 withdraws $89 		(-) Balance is $2999. 					 182
+
+***Flagged Transaction - Withdrawal Agent WT9 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT3 withdraws $33 		(-) Balance is $2966. 					 183
+				 Agent WT6 withdraws $60 		(-) Balance is $2906. 					 184
+				 Agent WT1 withdraws $72 		(-) Balance is $2834. 					 185
+				 Agent WT3 withdraws $9 		(-) Balance is $2825. 					 186
+Agent DT4 deposits $178							(+) Balance is $3003. 					 187
+				 Agent WT10 withdraws $79 		(-) Balance is $2924. 					 188
+
+***Flagged Transaction - Withdrawal Agent WT10 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT5 deposits $367							(+) Balance is $3291. 					 189
+
+***Flagged Transaction - Depositor Agent DT5 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $4 		(-) Balance is $3287. 					 190
+				 Agent WT2 withdraws $37 		(-) Balance is $3250. 					 191
+				 Agent WT10 withdraws $88 		(-) Balance is $3162. 					 192
+
+***Flagged Transaction - Withdrawal Agent WT10 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $98 		(-) Balance is $3064. 					 193
+
+***Flagged Transaction - Withdrawal Agent WT8 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT7 withdraws $47 		(-) Balance is $3017. 					 194
+Agent DT3 deposits $494							(+) Balance is $3511. 					 195
+
+***Flagged Transaction - Depositor Agent DT3 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $47 		(-) Balance is $3464. 					 196
+				 Agent WT9 withdraws $29 		(-) Balance is $3435. 					 197
+				 Agent WT4 withdraws $39 		(-) Balance is $3396. 					 198
+				 Agent WT5 withdraws $13 		(-) Balance is $3383. 					 199
+				 Agent WT7 withdraws $62 		(-) Balance is $3321. 					 200
+Agent DT5 deposits $453							(+) Balance is $3774. 					 201
+
+***Flagged Transaction - Depositor Agent DT5 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT6 withdraws $6 		(-) Balance is $3768. 					 202
+				 Agent WT2 withdraws $45 		(-) Balance is $3723. 					 203
+				 Agent WT10 withdraws $41 		(-) Balance is $3682. 					 204
+				 Agent WT8 withdraws $73 		(-) Balance is $3609. 					 205
+Agent DT2 deposits $246							(+) Balance is $3855. 					 206
+Agent DT4 deposits $322							(+) Balance is $4177. 					 207
+Agent DT5 deposits $204							(+) Balance is $4381. 					 208
+				 Agent WT6 withdraws $54 		(-) Balance is $4327. 					 209
+				 Agent WT1 withdraws $78 		(-) Balance is $4249. 					 210
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $34 		(-) Balance is $4215. 					 211
+Agent DT3 deposits $375							(+) Balance is $4590. 					 212
+
+***Flagged Transaction - Depositor Agent DT3 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT3 withdraws $76 		(-) Balance is $4514. 					 213
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT6 withdraws $27 		(-) Balance is $4487. 					 214
+Agent DT1 deposits $446							(+) Balance is $4933. 					 215
+
+***Flagged Transaction - Depositor Agent DT1 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $6 		(-) Balance is $4927. 					 216
+				 Agent WT7 withdraws $99 		(-) Balance is $4828. 					 217
+
+***Flagged Transaction - Withdrawal Agent WT7 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT5 withdraws $63 		(-) Balance is $4765. 					 218
+				 Agent WT1 withdraws $91 		(-) Balance is $4674. 					 219
+
+***Flagged Transaction - Withdrawal Agent WT1 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT9 withdraws $80 		(-) Balance is $4594. 					 220
+
+***Flagged Transaction - Withdrawal Agent WT9 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT3 withdraws $80 		(-) Balance is $4514. 					 221
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+
+
+******************************************************************************************************************************************************************
+
+		TREASURY DEPT AUDITOR FINDS CURRENT ACCOUNT BALANCE TO BE: $4514	 Number of transactions since last Treasury audit is: 166
+
+
+******************************************************************************************************************************************************************
+
+Agent DT1 deposits $142							(+) Balance is $4656. 					 222
+				 Agent WT10 withdraws $98 		(-) Balance is $4558. 					 223
+
+***Flagged Transaction - Withdrawal Agent WT10 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT3 withdraws $83 		(-) Balance is $4475. 					 224
+
+***Flagged Transaction - Withdrawal Agent WT3 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT6 withdraws $77 		(-) Balance is $4398. 					 225
+
+***Flagged Transaction - Withdrawal Agent WT6 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT4 withdraws $29 		(-) Balance is $4369. 					 226
+				 Agent WT1 withdraws $47 		(-) Balance is $4322. 					 227
+Agent DT3 deposits $478							(+) Balance is $4800. 					 228
+
+***Flagged Transaction - Depositor Agent DT3 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT7 withdraws $21 		(-) Balance is $4779. 					 229
+				 Agent WT9 withdraws $10 		(-) Balance is $4769. 					 230
+				 Agent WT8 withdraws $83 		(-) Balance is $4686. 					 231
+
+***Flagged Transaction - Withdrawal Agent WT8 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT8 withdraws $82 		(-) Balance is $4604. 					 232
+
+***Flagged Transaction - Withdrawal Agent WT8 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+Agent DT4 deposits $460							(+) Balance is $5064. 					 233
+
+***Flagged Transaction - Depositor Agent DT4 Made A Deposit In Excess Of $350.00 USD - See Flaged Transaction Log.
+
+				 Agent WT2 withdraws $1 		(-) Balance is $5063. 					 234
+				 Agent WT5 withdraws $83 		(-) Balance is $4980. 					 235
+
+***Flagged Transaction - Withdrawal Agent WT5 Made A Withdrawal In Excess Of $75.00 USD - See Flaged Transaction Log.
+
+				 Agent WT9 withdraws $46 		(-) Balance is $4934. 					 236
+				 Agent WT6 withdraws $21 		(-) Balance is $4913. 					 237
+Agent DT1 deposits $258							(+) Balance is $5171. 					 238
